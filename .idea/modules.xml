@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-world.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-world.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-world.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-world.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kotlin.iml" filepath="$PROJECT_DIR$/.idea/kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/two-fer.iml" filepath="$PROJECT_DIR$/.idea/modules/two-fer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/two-fer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/two-fer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/two-fer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/two-fer.test.iml" />
     </modules>
   </component>
 </project>
