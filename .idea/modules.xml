@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/excersism-kotlin.hamming.iml" filepath="$PROJECT_DIR$/.idea/modules/excersism-kotlin.hamming.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/excersism-kotlin.hamming.main.iml" filepath="$PROJECT_DIR$/.idea/modules/excersism-kotlin.hamming.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/excersism-kotlin.hamming.test.iml" filepath="$PROJECT_DIR$/.idea/modules/excersism-kotlin.hamming.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gigasecond.iml" filepath="$PROJECT_DIR$/.idea/modules/gigasecond.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gigasecond.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gigasecond.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gigasecond.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gigasecond.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hamming.iml" filepath="$PROJECT_DIR$/.idea/modules/hamming.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hamming.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hamming.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hamming.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hamming.test.iml" />
