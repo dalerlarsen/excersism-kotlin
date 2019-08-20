@@ -1,16 +1,15 @@
 object ScrabbleScore {
-    fun scoreWord(input: String) : Int {
-        return input.map {
-            when {
-                Regex("[AEIOULNRST]", RegexOption.IGNORE_CASE).matches(it.toString()) -> 1
-                Regex("[DG]", RegexOption.IGNORE_CASE).matches(it.toString()) -> 2
-                Regex("[BCMP]", RegexOption.IGNORE_CASE).matches(it.toString()) -> 3
-                Regex("[FHVWY]", RegexOption.IGNORE_CASE).matches(it.toString()) -> 4
-                Regex("[K]", RegexOption.IGNORE_CASE).matches(it.toString()) -> 5
-                Regex("[JX]", RegexOption.IGNORE_CASE).matches(it.toString()) -> 8
-                Regex("[QZ]", RegexOption.IGNORE_CASE).matches(it.toString()) -> 10
+    fun scoreWord(input: String): Int =
+        input.sumBy {
+            when (it.toUpperCase()) {
+                'A', 'E', 'I', 'O', 'U', 'L', 'N', 'R', 'S', 'T' -> 1
+                'D', 'G' -> 2
+                'B', 'C', 'M', 'P' -> 3
+                'F', 'H', 'V', 'W', 'Y' -> 4
+                'K' -> 5
+                'J', 'X' -> 8
+                'Q', 'Z' -> 10
                 else -> 0
             }
-        }.sum()
-    }
+        }
 }
