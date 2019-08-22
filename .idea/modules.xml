@@ -30,6 +30,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scrabble-score.iml" filepath="$PROJECT_DIR$/.idea/modules/scrabble-score.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scrabble-score.main.iml" filepath="$PROJECT_DIR$/.idea/modules/scrabble-score.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scrabble-score.test.iml" filepath="$PROJECT_DIR$/.idea/modules/scrabble-score.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/secret-handshake.iml" filepath="$PROJECT_DIR$/.idea/modules/secret-handshake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/secret-handshake.main.iml" filepath="$PROJECT_DIR$/.idea/modules/secret-handshake.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/secret-handshake.test.iml" filepath="$PROJECT_DIR$/.idea/modules/secret-handshake.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/two-fer.iml" filepath="$PROJECT_DIR$/.idea/modules/two-fer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/two-fer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/two-fer.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/two-fer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/two-fer.test.iml" />
