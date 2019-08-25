@@ -2,12 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercism.excersism-kotlin.hamming.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercism.excersism-kotlin.hamming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercism.excersism-kotlin.hamming.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercism.excersism-kotlin.hamming.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercism.excersism-kotlin.hamming.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercism.excersism-kotlin.hamming.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/difference-of-squares.iml" filepath="$PROJECT_DIR$/.idea/modules/difference-of-squares.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/difference-of-squares.main.iml" filepath="$PROJECT_DIR$/.idea/modules/difference-of-squares.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/difference-of-squares.test.iml" filepath="$PROJECT_DIR$/.idea/modules/difference-of-squares.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/excersism-kotlin.hamming.iml" filepath="$PROJECT_DIR$/.idea/modules/excersism-kotlin.hamming.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/excersism-kotlin.hamming.main.iml" filepath="$PROJECT_DIR$/.idea/modules/excersism-kotlin.hamming.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/excersism-kotlin.hamming.test.iml" filepath="$PROJECT_DIR$/.idea/modules/excersism-kotlin.hamming.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/excersism-kotlin.hello-world.iml" filepath="$PROJECT_DIR$/.idea/modules/excersism-kotlin.hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/excersism-kotlin.hello-world.main.iml" filepath="$PROJECT_DIR$/.idea/modules/excersism-kotlin.hello-world.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/excersism-kotlin.hello-world.test.iml" filepath="$PROJECT_DIR$/.idea/modules/excersism-kotlin.hello-world.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/excersism-kotlin.secret-handshake.iml" filepath="$PROJECT_DIR$/.idea/modules/excersism-kotlin.secret-handshake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/excersism-kotlin.secret-handshake.main.iml" filepath="$PROJECT_DIR$/.idea/modules/excersism-kotlin.secret-handshake.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/excersism-kotlin.secret-handshake.test.iml" filepath="$PROJECT_DIR$/.idea/modules/excersism-kotlin.secret-handshake.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gigasecond.iml" filepath="$PROJECT_DIR$/.idea/modules/gigasecond.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gigasecond.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gigasecond.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gigasecond.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gigasecond.test.iml" />
