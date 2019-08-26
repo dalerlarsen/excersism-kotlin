@@ -89,4 +89,31 @@ class TriangleTest {
         assertTrue(Triangle(0.5, 0.4, 0.6).isScalene)
     }
 
+    @Test
+    fun degenerateFirstTwoEqualsThird() {
+        val triangle = Triangle(1, 2, 3)
+        assertTrue(triangle.isDegenerate)
+        assertTrue(triangle.isScalene)
+        assertFalse(triangle.isEquilateral)
+        assertFalse(triangle.isIsosceles)
+    }
+
+    @Test
+    fun degenerateFirstThirdEqualsSecond() {
+        val triangle = Triangle(5.5, 10.0, 4.5)
+        assertTrue(triangle.isDegenerate)
+        assertTrue(triangle.isScalene)
+        assertFalse(triangle.isEquilateral)
+        assertFalse(triangle.isIsosceles)
+    }
+
+    @Test
+    fun degenerateSecondThirdEqualsFirst() {
+        val triangle = Triangle(15, 7, 8)
+        assertTrue(triangle.isDegenerate)
+        assertTrue(triangle.isScalene)
+        assertFalse(triangle.isEquilateral)
+        assertFalse(triangle.isIsosceles)
+    }
+
 }
