@@ -18,6 +18,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/leap.iml" filepath="$PROJECT_DIR$/.idea/modules/leap.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/leap.main.iml" filepath="$PROJECT_DIR$/.idea/modules/leap.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/leap.test.iml" filepath="$PROJECT_DIR$/.idea/modules/leap.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rna-transcription.iml" filepath="$PROJECT_DIR$/.idea/modules/rna-transcription.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rna-transcription.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rna-transcription.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rna-transcription.test.iml" filepath="$PROJECT_DIR$/.idea/modules/rna-transcription.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scrabble-score.iml" filepath="$PROJECT_DIR$/.idea/modules/scrabble-score.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scrabble-score.main.iml" filepath="$PROJECT_DIR$/.idea/modules/scrabble-score.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scrabble-score.test.iml" filepath="$PROJECT_DIR$/.idea/modules/scrabble-score.test.iml" />
