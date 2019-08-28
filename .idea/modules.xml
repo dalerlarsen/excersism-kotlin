@@ -15,6 +15,36 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-world.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-world.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-world.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-world.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kotlin.iml" filepath="$PROJECT_DIR$/.idea/kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.difference-of-squares.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.difference-of-squares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.difference-of-squares.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.difference-of-squares.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.difference-of-squares.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.difference-of-squares.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.gigasecond.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.gigasecond.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.gigasecond.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.gigasecond.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.gigasecond.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.gigasecond.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.hamming.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.hamming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.hamming.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.hamming.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.hamming.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.hamming.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.hello-world.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.hello-world.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.hello-world.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.hello-world.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.hello-world.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.leap.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.leap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.leap.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.leap.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.leap.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.leap.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.rna-transcription.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.rna-transcription.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.rna-transcription.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.rna-transcription.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.rna-transcription.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.rna-transcription.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.scrabble-score.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.scrabble-score.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.scrabble-score.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.scrabble-score.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.scrabble-score.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.scrabble-score.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.secret-handshake.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.secret-handshake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.secret-handshake.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.secret-handshake.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.secret-handshake.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.secret-handshake.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.triangle.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.triangle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.triangle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.triangle.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.triangle.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.two-fer.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.two-fer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.two-fer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.two-fer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.two-fer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.two-fer.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/leap.iml" filepath="$PROJECT_DIR$/.idea/modules/leap.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/leap.main.iml" filepath="$PROJECT_DIR$/.idea/modules/leap.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/leap.test.iml" filepath="$PROJECT_DIR$/.idea/modules/leap.test.iml" />
